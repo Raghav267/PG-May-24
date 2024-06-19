@@ -1,0 +1,22 @@
+1. print even number from 1 to 100
+2. print odd number from  1to 100
+3. print star patter for n take  from useer
+*
+**
+***
+****
+****
+4. start paattern take input from user (n) for n==5 the patter is :
+****** 
+****
+***
+**
+*
+
+
+5. Create a function whhich print hello world
+
+6.  Create a function which take any value tell wether it is even or odd ?  take the input usinf prompt;
+
+
+
