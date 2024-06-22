@@ -16,7 +16,7 @@
 
 5. Create a function whhich print hello world
 
-6.  Create a function which take any value tell wether it is even or odd ?  take the input usinf prompt;
+6.  Create a function which take any value tell wether it is even or odd ?  take the input using prompt;
 
 
 
