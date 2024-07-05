@@ -1,0 +1,21 @@
+Dom changes tow step process
+
+1. Selecting the Element
+2. To manipulate
+
+
+
+docs selecctors----------------------
+1.getElementbyid();
+2.getElementsByClassName
+3.getElementsByTagName
+4.querySelector (comb. of above 3);
+5.querySelectorAll
+
+
+
+Dom properties --------------------------------
+
+1. innerText == aware of the style applied
+2.Text Content == not aware of the style applied
+3. inner html ==
