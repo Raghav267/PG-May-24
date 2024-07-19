@@ -1,0 +1,6 @@
+React js
+1. Its a lib of js which 
+2. 
+
+
+npm create-react-app "appName";
