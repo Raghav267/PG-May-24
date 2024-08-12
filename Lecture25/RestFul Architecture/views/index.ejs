@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=h1, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>All comments</h1>
+
+    <a href="/comments/new">Add comment</a>
+    <ul>
+        <%for(let c of comments){%>
+            <li> <%=c.author  %>- <%= c.comment %></li>
+            <a href="/comments/<%=c.id%>">Show</a>
+
+       <% }%>
+    </ul>
+</body>
+</html>
